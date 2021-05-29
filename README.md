@@ -176,17 +176,17 @@ this instance.
 
 ### Prerequisites
 
-* React 16.8.0
-* npm
+* pendding
+* pendding
 
 ### Installation
 
 ```sh
-npm install easybase-react
+bla bla bla
 ```
 
 ### Database
-#### Create a React integration or Project
+#### Create of Project
 
 <p align="center">
   <img src="./assets/react-integration-3.gif" width="80%" alt="react easybase integration 1">
@@ -412,8 +412,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[@easybase_io](https://twitter.com/easybase_io) - hello@easybase.io
+| Name           | Surname | E-mail                                    | Github repository                  |
+|----------------|---------|-------------------------------------------|------------------------------------|
+| Giuseppe       | Superbo | giuseppe.superbo97_at_gmail.com           | https://github.com/SuperboGiuseppe |
+| Muhammad Uzair | Aslam   | muhammaduazair.aslam_at_studenti.unitn.it | https://github.com/uzairali37      |
 
-Project Link: [https://github.com/easybase/easybase-react](https://github.com/easybase/easybase-react)
-
-<a href="https://www.producthunt.com/posts/easybase-io?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-easybase-io" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=278380&theme=dark" alt="Easybase.io - Serverless platform for apps and projects. React.js Focused. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
