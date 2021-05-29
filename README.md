@@ -2,15 +2,16 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   
-  ![image](images/logo1.png)
- <!-- <img src="./images/logo1.png" width="100%" alt="easybase code example"> -->
+  <!-- ![image](images/logo1.png) -->
+ <img src="./images/logo1.png" width="50%" alt="OpenStack">
 </p>
 
 <br />
 
 <p align="center">
-  <a href="https://easybase.io">
-    <img src="https://easybase.io/assets/images/logo_black.png" alt="easybase logo black" width="80" height="80">
+  <a href="https://github.com/SuperboGiuseppe/linux-on-demand">
+    <img src="./images/graph_terraform.png" width="50%" alt="OpenStack">
+    <!-- <img src="https://easybase.io/assets/images/logo_black.png" alt="easybase logo black" width="80" height="80"> -->
   </a>
 </p>
 
